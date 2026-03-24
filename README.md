@@ -23,7 +23,7 @@ Quote  ──→  FNV-1a hash (64-bit)  ──→  SplitMix64 PRNG  ──→  R
 ## Installation
 
 ```bash
-go get github.com/example/trumprng
+go get github.com/DustRaven/trumprng
 ```
 
 ## Usage
